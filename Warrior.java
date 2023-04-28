@@ -39,5 +39,4 @@ public abstract class Warrior {
         return "Warrior [name = " + name + ", healthPoint = " + healthPoint + ", weapon = " + weapon + ", defend = "
                 + defend + "]";
     }
-
 }
